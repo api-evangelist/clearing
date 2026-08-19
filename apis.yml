@@ -30,7 +30,7 @@ x-tier-reason: portfolio-lead
 x-enrichment-note: 'clearing.com is a UK-regulated fintech/EMI (WTUK Limited); the stub-recorded
   healthcare sector and Bessemer attribution could not be confirmed against this domain and may
   be a misattributed lead. No public developer API, OpenAPI, or docs surface exists as of enrichment.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
